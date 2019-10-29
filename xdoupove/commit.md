@@ -1,3 +1,6 @@
+xdoupove
+d5cbf4eb62606649d1f18eca988c5997171c8271
+
 parse_git_branch() {
   git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 # git branch 2>/dev/null | /usr/bin/grep '^*' | colrm 1 2)"
