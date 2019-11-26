@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 Please change me.
 This is unrelated change that has to stay. But keep your change too. 
 
 
 Change me too.
+=======
+Please change me. Okay
+
+
+Please change me too.
+>>>>>>> 30e9192... First commit
 
 
 1. Did you use Git before this semester?
