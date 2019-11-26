@@ -16,11 +16,7 @@ I changed you too.
 2. Did you work on Git repository with two or more people? no
 
 
-<<<<<<< HEAD
-3. For the next class would you like to hear about how to recover from Git failures?
-=======
 3. For the next class would you like to hear about how to recover from Git failures? yes 
->>>>>>> c0298a4... question3
 
 
 4. Did you work on it with more than 10 people? no
@@ -35,4 +31,4 @@ I changed you too.
 7. For the next class would you like to hear about cherry-pick? yes
 
 
-8. Do you think SVN is better than Git?
+8. Do you think SVN is better than Git? Noooooooooo
