@@ -8,8 +8,12 @@ Change me too.
 Please change me. Okay
 
 
+<<<<<<< HEAD
 Please change me too.
 >>>>>>> 30e9192... First commit
+=======
+Please change me too. Okay
+>>>>>>> afd0522... Second commit
 
 
 1. Did you use Git before this semester?
