@@ -2,7 +2,11 @@ Please change me.
 This is unrelated change that has to stay. But keep your change too. 
 
 
+<<<<<<< HEAD
 Change me too.
+=======
+Please change me too. Okay
+>>>>>>> 1c71533... second
 
 
 1. Did you use Git before this semester?
