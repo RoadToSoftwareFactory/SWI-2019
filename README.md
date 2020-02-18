@@ -1,5 +1,55 @@
 # SWI 2019 (/2020)
 
+## SWI 2
+
+These are materials for the [Software Engineering 2](http://is.mendelu.cz/katalog/syllabus.pl?kod=PEF:SWI2) course,
+Tuesday group, 10 am local, taught on Mendel University in Brno, spring 2020, led by [@ZitaNemeckova](https://github.com/ZitaNemeckova) and [@himdel](https://github.com/himdel).
+
+The topic is UI integration testing with cypress, the whole semester, except for (possibly) a UI intro workshop and a UX workshop.
+
+If you need to contact us, please use the [ManageIQ/welcome](https://gitter.im/ManageIQ/welcome) channel on [Gitter](https://gitter.im). (You'll need a github login anyway.)  
+Feel free to use that channel to share anything useful you've found :).
+
+### Synopsis
+
+| date | topic |
+|-|-|
+| 2020-02-18 | first, setup, etc. |
+| 2020-02-25 | ... |
+| 2020-03-03 | ... |
+| 2020-03-10 | ... |
+| 2020-03-17 | ... |
+| 2020-03-24 | ... |
+| 2020-03-31 | ... |
+| 2020-04-07 | ... |
+| 2020-04-14 | ... |
+| 2020-04-21 | ... |
+| 2020-04-28 | ... |
+| 2020-05-05 | ... |
+| 2020-05-12 | ... |
+
+### Local setup
+
+You'll need:
+
+* the VM with ManageIQ (TODO url) (or to follow https://www.manageiq.org/docs/guides/developer_setup),
+* node (10+)
+* npm or yarn
+* git
+* Google Chrome (or Chromium)
+
+Setup:
+
+```
+git clone https://github.com/ManageIQ/manageiq-ui-classic
+cd manageiq-ui-classic
+yarn
+# edit cypress.json, change the URL to use the VM IP address instead of localhost
+yarn run cypress:open
+```
+
+---
+
 ## SWI 1
 
 These are materials for the [Software Engineering 1](http://is.mendelu.cz/katalog/syllabus.pl?kod=PEF:SWI1) course,
