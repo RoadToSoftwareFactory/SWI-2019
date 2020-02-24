@@ -14,8 +14,8 @@ Feel free to use that channel to share anything useful you've found :).
 
 | date | topic |
 |-|-|
-| 2020-02-18 | first, setup, etc. |
-| 2020-02-25 | ... |
+| 2020-02-18 | intro, organizational details |
+| 2020-02-25 | setup, first steps |
 | 2020-03-03 | ... |
 | 2020-03-10 | ... |
 | 2020-03-17 | ... |
@@ -32,7 +32,7 @@ Feel free to use that channel to share anything useful you've found :).
 
 You'll need:
 
-* the VM with ManageIQ (TODO url) (or to follow https://www.manageiq.org/docs/guides/developer_setup),
+* the VM with ManageIQ (https://himdel.eu/swi-miq.ova) (or to follow https://www.manageiq.org/docs/guides/developer_setup),
 * node (10+)
 * npm or yarn
 * git
@@ -44,7 +44,7 @@ Setup:
 git clone https://github.com/ManageIQ/manageiq-ui-classic
 cd manageiq-ui-classic
 yarn
-# edit cypress.json, change the URL to use the VM IP address instead of localhost
+# edit cypress.json, change the URL to use the VM IP address instead of localhost - http://192.168.99.100:3000
 yarn run cypress:open
 ```
 
