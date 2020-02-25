@@ -43,9 +43,9 @@ Setup:
 ```
 git clone https://github.com/ManageIQ/manageiq-ui-classic
 cd manageiq-ui-classic
-yarn
+npm install
 # edit cypress.json, change the URL to use the VM IP address instead of localhost - http://192.168.99.100:3000
-yarn run cypress:open
+npm run cypress:open
 ```
 
 ---
