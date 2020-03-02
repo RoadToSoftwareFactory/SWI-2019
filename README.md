@@ -16,8 +16,8 @@ Feel free to use that channel to share anything useful you've found :).
 |-|-|
 | 2020-02-18 | intro, organizational details |
 | 2020-02-25 | setup, first steps |
-| 2020-03-03 | How to login, click and find an element |
-| 2020-03-10 | ... |
+| 2020-03-03 | How to login, click and find an element (Coronavirus version)|
+| 2020-03-10 | TODO: Videoconference to go over testing (Coronavirus version)|
 | 2020-03-17 | ... |
 | 2020-03-24 | ... |
 | 2020-03-31 | ... |
@@ -48,10 +48,14 @@ npm install
 npm run cypress:open
 ```
 
-### How to log in, click and find an element 
+### How to log in, click and find an element (Coronavirus version)
+As this is last minute this "contactless" class will be up to you, please have a look at about 1,5 hours of tutorials at https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices .
 
-Documentation https://docs.cypress.io/api/api/table-of-contents.html
+### TODO: Videoconference to go over testing (Coronavirus version)
 
+
+### After coronavirus
+Documentation https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices
 Tasks:
 - Create a new test case
 - Login - fill inputs and click `Log in`
