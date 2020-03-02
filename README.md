@@ -49,7 +49,7 @@ npm run cypress:open
 ```
 
 ### How to log in, click and find an element (Coronavirus version)
-As this is last minute this "contactless" class will be up to you, please have a look at about 1,5 hours of tutorials at https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices .
+As this is last minute this "contactless" class will be up to you, please have a look at about 1,5 hours of tutorials at https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices . Feel free to send any testing questions our way. We can prepare some Q&A for next "contactless" class :) 
 
 ### TODO: Videoconference to go over testing (Coronavirus version)
 
