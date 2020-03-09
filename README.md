@@ -16,8 +16,8 @@ Feel free to use that channel to share anything useful you've found :).
 |-|-|
 | 2020-02-18 | intro, organizational details |
 | 2020-02-25 | setup, first steps |
-| 2020-03-03 | How to login, click and find an element (Coronavirus version)|
-| 2020-03-10 | TODO: Videoconference to go over testing (Coronavirus version)|
+| 2020-03-03 | How to login, click and find an element (Coronavirus version) |
+| 2020-03-10 | Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version) |
 | 2020-03-17 | ... |
 | 2020-03-24 | ... |
 | 2020-03-31 | ... |
@@ -53,7 +53,11 @@ As this is last minute this "contactless" class will be up to you, please have a
 
 For backend people: https://docs.google.com/document/d/1ZktIxBIgc-HRLejDKcDJNOjXqd7fFluB95MjXnC4XT8/edit?ts=5e5d18b8#heading=h.b459vbu6h3g5
 
-### TODO: Videoconference to go over testing (Coronavirus version)
+
+### Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version)
+
+At 10:00 please join us at https://bluejeans.com/8080963880 . We'll show you different js frameworks our project uses with examples (good and bad:)). Expected to take about one hour.
+
 
 
 ### After coronavirus
