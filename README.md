@@ -58,6 +58,11 @@ For backend people: https://docs.google.com/document/d/1ZktIxBIgc-HRLejDKcDJNOjX
 
 At 10:00 please join us at https://bluejeans.com/8080963880 . We'll show you different js frameworks our project uses with examples (good and bad:)). Expected to take about one hour.
 
+Recording: https://bluejeans.com/s/WtQ4W
+
+To see code and not faces. Hover over the screen and adjust the view like below:
+<img width="704" alt="Screenshot 2020-03-10 at 11 16 33" src="https://user-images.githubusercontent.com/9210860/76302910-16dcca00-62c1-11ea-8325-3e30d10e6111.png">
+
 
 
 ### After coronavirus
