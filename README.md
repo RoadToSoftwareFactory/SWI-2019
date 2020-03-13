@@ -18,7 +18,7 @@ Feel free to use that channel to share anything useful you've found :).
 | 2020-02-25 | setup, first steps |
 | 2020-03-03 | How to login, click and find an element (Coronavirus version) |
 | 2020-03-10 | Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version) |
-| 2020-03-17 | ... |
+| 2020-03-17 | Inspector (Coravirus version)|
 | 2020-03-24 | ... |
 | 2020-03-31 | ... |
 | 2020-04-07 | ... |
@@ -63,6 +63,34 @@ Recording: https://bluejeans.com/s/WtQ4W
 To see code and not faces. Hover over the screen and adjust the view like below:
 <img width="704" alt="Screenshot 2020-03-10 at 11 16 33" src="https://user-images.githubusercontent.com/9210860/76302910-16dcca00-62c1-11ea-8325-3e30d10e6111.png">
 
+### [Work in progress] Inspector (Coronavirus version)
+Google Chrome: https://developers.google.com/web/tools/chrome-devtools (recommended)
+Firefox: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector
+
+At 11:00 we''ll meet at https://bluejeans.com/8080963880 if you have any questions.
+
+What you should learn from the tutorials:
+- Elements tab
+  - find an element and copy it(HTML) and its selector(jQuery)
+  - add/remove CSS style to an element in Elements tab and in Console tab(using js/jQuery) 
+  - delete/hide element
+- Console tab  
+  - read messages in Console tab
+  - run an easy js code in js
+  - clean messages, filter them by level/content
+  - try out different `console` functions like `log, error, warn, dir, info, table` and anything else that looks good :)
+- Network tab
+  - reload a page and watch what happens in Network tab
+  - select one request and look what's in Headers, Response tabs
+  - simulate slow connection
+  - disable cache - reloads js
+  - block requests
+- Application tab
+ - look what you have in Cookies, Local Storage and Session Storage
+ - try to edit/delete/add 
+- Simulate Mobile Devices 
+  - simulate Mobile version and play a bit with it :)  
+- and anything else you find useful/interesting :)
 
 
 ### After coronavirus
