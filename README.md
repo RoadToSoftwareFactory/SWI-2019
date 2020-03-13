@@ -19,7 +19,7 @@ Feel free to use that channel to share anything useful you've found :).
 | 2020-03-03 | How to login, click and find an element (Coronavirus version) |
 | 2020-03-10 | Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version) |
 | 2020-03-17 | Inspector (Coravirus version)|
-| 2020-03-24 | ... |
+| 2020-03-24 | Writing your own UserScript (up for discussion:)) |
 | 2020-03-31 | ... |
 | 2020-04-07 | ... |
 | 2020-04-14 | ... |
@@ -63,7 +63,7 @@ Recording: https://bluejeans.com/s/WtQ4W
 To see code and not faces. Hover over the screen and adjust the view like below:
 <img width="704" alt="Screenshot 2020-03-10 at 11 16 33" src="https://user-images.githubusercontent.com/9210860/76302910-16dcca00-62c1-11ea-8325-3e30d10e6111.png">
 
-### [Work in progress] Inspector (Coronavirus version)
+### Inspector (Coronavirus version)
 Google Chrome: https://developers.google.com/web/tools/chrome-devtools (recommended)
 Firefox: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector
 
