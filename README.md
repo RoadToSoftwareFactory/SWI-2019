@@ -12,6 +12,8 @@ Feel free to use that channel to share anything useful you've found :).
 
 ### Synopsis
 
+If you have any suggestion about what to do next please leave a comment [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/67)
+
 | date | topic |
 |-|-|
 | 2020-02-18 | intro, organizational details |
