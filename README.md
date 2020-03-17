@@ -92,6 +92,10 @@ What you should learn from the tutorials:
   - simulate Mobile version and play a bit with it :)  
 - and anything else you find useful/interesting :)
 
+### UserScript
+
+Add your suggestion [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/66)
+
 
 ### After coronavirus
 Documentation https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices
