@@ -21,7 +21,7 @@ If you have any suggestion about what to do next please leave a comment [here](h
 | 2020-03-03 | How to login, click and find an element (Coronavirus version) |
 | 2020-03-10 | Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version) |
 | 2020-03-17 | Inspector (Coravirus version)|
-| 2020-03-24 | Writing your own UserScript (up for discussion:)) |
+| 2020-03-24 | Writing your own UserScript (Coravirus version) |
 | 2020-03-31 | ... |
 | 2020-04-07 | ... |
 | 2020-04-14 | ... |
