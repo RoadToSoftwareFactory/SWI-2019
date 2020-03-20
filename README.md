@@ -113,6 +113,9 @@ Bunch of stuff that maybe interesting but is not required :)
 Tips for work in home situation from people with years of experience :) : 
 https://www.youtube.com/watch?v=AOhJzmtjgxY&fbclid=IwAR2yLFSN5YsVaAjw_UsC9-h4E48Wxvm5E-Fpu1nEI6xT-LeC6iezm2Zexoo
 
+Unity tutorials are free for 3 months:
+https://learn.unity.com/
+
 ### After coronavirus
 Documentation https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices
 Tasks:
