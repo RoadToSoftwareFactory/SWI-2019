@@ -100,7 +100,11 @@ Add your suggestion [here](https://github.com/RoadToSoftwareFactory/SWI-2019/iss
 
 At 10:00 we''ll meet at https://bluejeans.com/8080963880 as usual. It will be recorded so you can watch it later if the time isn't working for you.
 
-
+Agenda:
+- What is UserScript?
+- What you need to start? Not much :)
+- Let's try it works
+- And write one that's actually useful :)
 
 ### Extra stuff 
 
