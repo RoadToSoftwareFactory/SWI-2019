@@ -98,6 +98,16 @@ What you should learn from the tutorials:
 
 Add your suggestion [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/66)
 
+At 10:00 we''ll meet at https://bluejeans.com/8080963880 as usual. It will be recorded so you can watch it later if the time isn't working for you.
+
+
+
+### Extra stuff 
+
+Bunch of stuff that maybe interesting but is not required :) 
+
+Tips for work in home situation from people with years of experience :) : 
+https://www.youtube.com/watch?v=AOhJzmtjgxY&fbclid=IwAR2yLFSN5YsVaAjw_UsC9-h4E48Wxvm5E-Fpu1nEI6xT-LeC6iezm2Zexoo
 
 ### After coronavirus
 Documentation https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices
