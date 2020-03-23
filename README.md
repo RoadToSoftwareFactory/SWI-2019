@@ -22,7 +22,7 @@ If you have any suggestion about what to do next please leave a comment [here](h
 | 2020-03-10 | Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version) |
 | 2020-03-17 | Inspector (Coravirus version)|
 | 2020-03-24 | Writing your own UserScript (Coravirus version) |
-| 2020-03-31 | ... |
+| 2020-03-31 | Regex and why you should know it :) |
 | 2020-04-07 | ... |
 | 2020-04-14 | ... |
 | 2020-04-21 | ... |
@@ -96,7 +96,7 @@ What you should learn from the tutorials:
 
 ### UserScript
 
-Add your suggestion [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/66)
+Add your suggestions [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/66)
 
 At 10:00 we''ll meet at https://bluejeans.com/8080963880 as usual. It will be recorded so you can watch it later if the time isn't working for you.
 
@@ -105,6 +105,14 @@ Agenda:
 - What you need to start? Not much :)
 - Let's try it works
 - And write one that's actually useful :)
+
+### Regex and why you should know it :)
+
+Add your suggestions [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/68)
+
+If there aren't any other suggestions than we'll look
+
+
 
 ### Extra stuff 
 
