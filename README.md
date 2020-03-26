@@ -124,6 +124,15 @@ https://www.youtube.com/watch?v=AOhJzmtjgxY&fbclid=IwAR2yLFSN5YsVaAjw_UsC9-h4E48
 Unity tutorials are free for 3 months:
 https://learn.unity.com/
 
+Fullstack development course:
+https://fullstackopen.com/en/
+
+Python and data analysis:
+https://csmastersuh.github.io/data_analysis_with_python_spring_2020/
+
+DevOps with Docker:
+https://devopswithdocker.com/
+
 ### After coronavirus
 Documentation https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices
 Tasks:
