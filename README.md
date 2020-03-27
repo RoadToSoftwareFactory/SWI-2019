@@ -100,6 +100,8 @@ Add your suggestions [here](https://github.com/RoadToSoftwareFactory/SWI-2019/is
 
 At 10:00 we''ll meet at https://bluejeans.com/8080963880 as usual. It will be recorded so you can watch it later if the time isn't working for you.
 
+Recording: https://bluejeans.com/s/ej63N
+
 Agenda:
 - What is UserScript?
 - What you need to start? Not much :)
