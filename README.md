@@ -112,9 +112,13 @@ Agenda:
 
 Add your suggestions [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/68)
 
-If there aren't any other suggestions than we'll look
+At 11:00 we''ll meet at https://bluejeans.com/8080963880 (we are not adapted to time shift yet :) ). It will be recorded so you can watch it later if the time isn't working for you.
 
-
+We'll look at:
+- history
+- search
+- rename
+- convert from one type to another (and why it should be one time thing)
 
 ### Extra stuff 
 
