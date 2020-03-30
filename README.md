@@ -118,7 +118,7 @@ We'll look at:
 - history
 - search
 - rename
-- convert from one type to another (and why it should be one time thing)
+- convert data from one format to another (and why it should be one time thing)
 
 ### Extra stuff 
 
