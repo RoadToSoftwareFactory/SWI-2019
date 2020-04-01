@@ -23,8 +23,8 @@ If you have any suggestion about what to do next please leave a comment [here](h
 | 2020-03-17 | Inspector (Coravirus version)|
 | 2020-03-24 | Writing your own UserScript (Coravirus version) |
 | 2020-03-31 | Regex and why you should know it :) |
-| 2020-04-07 | ... |
-| 2020-04-14 | ... |
+| 2020-04-07 | Docker |
+| 2020-04-14 | Webpack |
 | 2020-04-21 | ... |
 | 2020-04-28 | ... |
 | 2020-05-05 | ... |
@@ -119,6 +119,16 @@ We'll look at:
 - search
 - rename
 - convert data from one format to another (and why it should be one time thing)
+
+### Docker
+
+At 11:00 we''ll meet at https://bluejeans.com/8080963880 if you have any questions.
+
+Please go through https://devopswithdocker.com/part1/ . Feel free to continue with Part 2 and Part 3 if you want to :) If you cannot install Docker on your machine to try it out you can just read it.
+
+### Webpack
+
+Feel free to add any comment on this subject [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/69) :)
 
 ### Extra stuff 
 
