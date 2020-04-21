@@ -131,7 +131,7 @@ Please go through https://devopswithdocker.com/part1/ . Feel free to continue wi
 
 ### Webpack
 
-At 11:00 we''ll meet at https://bluejeans.com/8080963880 . It will be recorded so you can watch it later if the time isn't working for you.
+At 11:00 we''ll meet at https://bluejeans.com/8080963880 . It will be recorded so you can watch it later if the time isn't working for you. Recording for this sessio is [here](https://bluejeans.com/s/uzTef/)
 
 Feel free to add any comment on this subject [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/69) :)
 
