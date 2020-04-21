@@ -26,7 +26,7 @@ If you have any suggestion about what to do next please leave a comment [here](h
 | 2020-04-07 | (sick) |
 | 2020-04-14 | Docker |
 | 2020-04-21 | Webpack |
-| 2020-04-28 | ... |
+| 2020-04-28 | Intro to Python |
 | 2020-05-05 | ... |
 | 2020-05-12 | ... |
 
@@ -134,6 +134,16 @@ Please go through https://devopswithdocker.com/part1/ . Feel free to continue wi
 At 11:00 we''ll meet at https://bluejeans.com/8080963880 . It will be recorded so you can watch it later if the time isn't working for you.
 
 Feel free to add any comment on this subject [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/69) :)
+
+### Intro to Python
+
+At 11:00 we''ll meet at https://bluejeans.com/8080963880 . It will be recorded so you can watch it later if the time isn't working for you.
+
+We'll probably start with Week 1 and Week 2 of https://csmastersuh.github.io/data_analysis_with_python_spring_2020/
+
+Feel free to add any comment on this subject [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/71) :)
+
+
 
 ### Extra stuff 
 
