@@ -139,9 +139,11 @@ Feel free to add any comment on this subject [here](https://github.com/RoadToSof
 
 At 11:00 we''ll meet at https://bluejeans.com/8080963880 . It will be recorded so you can watch it later if the time isn't working for you.
 
-We'll probably start with Week 1 and Week 2 of https://csmastersuh.github.io/data_analysis_with_python_spring_2020/
+We'll probably start with Week 1 (and Week 2) of https://csmastersuh.github.io/data_analysis_with_python_spring_2020/
 
 Feel free to add any comment on this subject [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/71) :)
+
+Python 3 on MacOS https://dev.to/malwarebo/how-to-set-python3-as-a-default-python-version-on-mac-4jjf
 
 
 
