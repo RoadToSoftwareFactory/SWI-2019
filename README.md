@@ -10,6 +10,10 @@ The topic is UI integration testing with cypress, the whole semester, except for
 If you need to contact us, please use the [ManageIQ/welcome](https://gitter.im/ManageIQ/welcome) channel on [Gitter](https://gitter.im). (You'll need a github login anyway.)  
 Feel free to use that channel to share anything useful you've found :).
 
+# Gradig
+
+Please vote on https://github.com/RoadToSoftwareFactory/SWI-2019/issues/72
+
 ### Synopsis
 
 If you have any suggestion about what to do next please leave a comment [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/67)
