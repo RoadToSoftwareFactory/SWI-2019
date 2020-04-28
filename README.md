@@ -137,7 +137,7 @@ Feel free to add any comment on this subject [here](https://github.com/RoadToSof
 
 ### Intro to Python
 
-Warnign: Anyone who knows basics of Python may get bored :)
+Warning: Anyone who knows basics of Python may get bored :)
 
 At 11:00 we''ll meet at https://bluejeans.com/8080963880 . It will be recorded so you can watch it later if the time isn't working for you.
 
