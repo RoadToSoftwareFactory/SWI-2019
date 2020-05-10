@@ -32,7 +32,7 @@ If you have any suggestion about what to do next please leave a comment [here](h
 | 2020-04-21 | Webpack |
 | 2020-04-28 | Intro to Python |
 | 2020-05-05 | (no topic) |
-| 2020-05-12 | ... |
+| 2020-05-12 | Wrap up |
 
 ### Local setup
 
@@ -156,6 +156,11 @@ Python 3 on MacOS https://dev.to/malwarebo/how-to-set-python3-as-a-default-pytho
 
 Run out of topics so let's have a pause :) Feel free to have a look at Extra stuff instead :) And vote for grading at https://github.com/RoadToSoftwareFactory/SWI-2019/issues/72
 
+
+
+### Wrap up
+
+At 11:00 we''ll meet at https://bluejeans.com/8080963880 . It will not be recorded as it's supposed to be just a chat about the course and kinda brainstorming about educational projects for future :) So let's have a nice chat with cup of coffee/tea/sparlikng water about what went well and what didn't. What you missed in your (virtual) studies or enjoyed. And so on :) 
 
 ### Extra stuff 
 
