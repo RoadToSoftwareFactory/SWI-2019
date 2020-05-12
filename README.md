@@ -22,9 +22,9 @@ If you have any suggestion about what to do next please leave a comment [here](h
 |-|-|-|
 | 2020-02-18 | intro, organizational details | - |
 | 2020-02-25 | setup, first steps | - |
-| 2020-03-03 | How to login, click and find an element (Coronavirus version) |  |
+| 2020-03-03 | How to login, click and find an element (Coronavirus version) | - |
 | 2020-03-10 | Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version) | https://bluejeans.com/s/WtQ4W |
-| 2020-03-17 | Inspector (Coravirus version) |  |
+| 2020-03-17 | Inspector (Coravirus version) | - |
 | 2020-03-24 | Writing your own UserScript (Coravirus version) | https://bluejeans.com/s/ej63N |
 | 2020-03-31 | Regex and why you should know it :) | https://bluejeans.com/s/pEtQV/ |
 | 2020-04-07 | (sick) | - |
