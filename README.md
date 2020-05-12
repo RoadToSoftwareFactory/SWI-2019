@@ -26,11 +26,11 @@ If you have any suggestion about what to do next please leave a comment [here](h
 | 2020-03-10 | Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version) | https://bluejeans.com/s/WtQ4W |
 | 2020-03-17 | Inspector (Coravirus version) |  |
 | 2020-03-24 | Writing your own UserScript (Coravirus version) | https://bluejeans.com/s/ej63N |
-| 2020-03-31 | Regex and why you should know it :) |  |
+| 2020-03-31 | Regex and why you should know it :) | https://bluejeans.com/s/pEtQV/ |
 | 2020-04-07 | (sick) | - |
 | 2020-04-14 | Docker | - |
 | 2020-04-21 | Webpack | https://bluejeans.com/s/uzTef/ |
-| 2020-04-28 | Intro to Python |  |
+| 2020-04-28 | Intro to Python | https://bluejeans.com/s/zL3kH/ |
 | 2020-05-05 | (no topic) | - |
 | 2020-05-12 | Wrap up | - |
 
@@ -102,7 +102,7 @@ What you should learn from the tutorials:
 
 Add your suggestions [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/66)
 
-At 10:00 we''ll meet at https://bluejeans.com/8080963880 as usual. It will be recorded so you can watch it later if the time isn't working for you.
+At 10:00 we''ll meet at https://bluejeans.com/8080963880 as usual. It will be recorded so you can watch it later if the time isn't working for you. Recording for this sessio is [here](https://bluejeans.com/s/uzTef/)
 
 Recording: https://bluejeans.com/s/ej63N
 
@@ -116,7 +116,7 @@ Agenda:
 
 Add your suggestions [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/68)
 
-At 11:00 we''ll meet at https://bluejeans.com/8080963880 (we are not adapted to time shift yet :) ). It will be recorded so you can watch it later if the time isn't working for you.
+At 11:00 we''ll meet at https://bluejeans.com/8080963880 (we are not adapted to time shift yet :) ). It will be recorded so you can watch it later if the time isn't working for you. Recording for this sessio is [here](https://bluejeans.com/s/pEtQV/)
 
 We'll look at:
 - history
@@ -143,7 +143,7 @@ Feel free to add any comment on this subject [here](https://github.com/RoadToSof
 
 Warning: Anyone who knows basics of Python may get bored :)
 
-At 11:00 we''ll meet at https://bluejeans.com/8080963880 . It will be recorded so you can watch it later if the time isn't working for you.
+At 11:00 we''ll meet at https://bluejeans.com/8080963880 . It will be recorded so you can watch it later if the time isn't working for you. Recording for this sessio is [here](https://bluejeans.com/s/zL3kH/)
 
 We'll probably start with Week 1 (and Week 2) of https://csmastersuh.github.io/data_analysis_with_python_spring_2020/
 
