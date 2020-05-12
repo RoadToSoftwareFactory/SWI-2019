@@ -18,21 +18,21 @@ Please vote on https://github.com/RoadToSoftwareFactory/SWI-2019/issues/72
 
 If you have any suggestion about what to do next please leave a comment [here](https://github.com/RoadToSoftwareFactory/SWI-2019/issues/67)
 
-| date | topic |
-|-|-|
-| 2020-02-18 | intro, organizational details |
-| 2020-02-25 | setup, first steps |
-| 2020-03-03 | How to login, click and find an element (Coronavirus version) |
-| 2020-03-10 | Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version) |
-| 2020-03-17 | Inspector (Coravirus version)|
-| 2020-03-24 | Writing your own UserScript (Coravirus version) |
-| 2020-03-31 | Regex and why you should know it :) |
-| 2020-04-07 | (sick) |
-| 2020-04-14 | Docker |
-| 2020-04-21 | Webpack |
-| 2020-04-28 | Intro to Python |
-| 2020-05-05 | (no topic) |
-| 2020-05-12 | Wrap up |
+| date | topic | recording |
+|-|-|-|
+| 2020-02-18 | intro, organizational details | - |
+| 2020-02-25 | setup, first steps | - |
+| 2020-03-03 | How to login, click and find an element (Coronavirus version) |  |
+| 2020-03-10 | Videoconference: Js tests in ManageIQ: Jasmine, Jest and Cypress (Coronavirus version) | https://bluejeans.com/s/WtQ4W |
+| 2020-03-17 | Inspector (Coravirus version) |  |
+| 2020-03-24 | Writing your own UserScript (Coravirus version) | https://bluejeans.com/s/ej63N |
+| 2020-03-31 | Regex and why you should know it :) |  |
+| 2020-04-07 | (sick) | - |
+| 2020-04-14 | Docker | - |
+| 2020-04-21 | Webpack | https://bluejeans.com/s/uzTef/ |
+| 2020-04-28 | Intro to Python |  |
+| 2020-05-05 | (no topic) | - |
+| 2020-05-12 | Wrap up | - |
 
 ### Local setup
 
